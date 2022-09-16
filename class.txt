@@ -1,13 +1,28 @@
+ls
 Crimson
 Orange
-Green
+Blue
 Cyan
 Yellow
-Ivory
+Charcoal
 Khaki
 Coral
 Silver
 Fuchsia
-Gray
+Purple
 Brown
 Red
+class <class.txt 
+ls
+cd
+cat >class.txt 
+ 
+ls
+c;ass
+..cd
+..cd
+l;s
+cd asjdba
+diff
+cleafr
+clear
