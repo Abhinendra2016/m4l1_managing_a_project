@@ -1,4 +1,3 @@
-ls
 Crimson
 Orange
 Blue
@@ -12,17 +11,4 @@ Fuchsia
 Purple
 Brown
 Red
-class <class.txt 
-ls
-cd
-cat >class.txt 
- 
-ls
-c;ass
-..cd
-..cd
-l;s
-cd asjdba
-diff
-cleafr
-clear
+some message
